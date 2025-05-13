@@ -1,3 +1,6 @@
+//Program which takes fraction as in uinput in the form of strings and performs basic operations.
+//Author - Vedika Udgir
+
     #include <iostream>
     using namespace std;
 
